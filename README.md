@@ -1,8 +1,8 @@
-# Data-Structure-And-Algorithm-2017
+**Data-Structure-And-Algorithm-2017
 
 ![](https://github.com/ranjiewwen/Data-Structure-And-Algorithm-2017/blob/master/mooc-data-stucture.png)
 
-## 主要资料
+##*主要资料
 
 - [Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms) :Python,C++,C...
 - 常见数据结构C实现
@@ -143,3 +143,4 @@
 >习题选讲-Sort with Swap(0,*)
 
 >习题选讲-Hashing - Hard Version
+ 
